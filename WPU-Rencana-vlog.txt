@@ -5,4 +5,6 @@ Rencana Konten
   * Satu Ekor ayam dibagi 16 Potong
   * Memisahkan Kulit dan daging
 - Tutorial membuat bumbu ayam
+  * Membuat Bumbu Ayam Kuning
+  * Membuat resep  ayam Crispy
 - tutorial memilih ayam yang masih segar
